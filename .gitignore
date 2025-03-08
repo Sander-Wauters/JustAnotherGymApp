@@ -1,0 +1,13 @@
+# Ignore all files by default, but scan all directories
+*
+!*/
+
+# Common
+!/.gitignore
+!/README.md
+
+# API
+!/projects/api/src/*
+!/projects/api/nodemon.json
+!/projects/api/package.json
+!/projects/api/tsconfig.json
