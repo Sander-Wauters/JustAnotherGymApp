@@ -16,6 +16,8 @@
   },
   "dependencies": {
     "koa": "^2.16.0",
+    "mysql2": "^3.13.0",
+    "sequelize": "^6.37.6",
     "winston": "^3.17.0"
   }
 }
