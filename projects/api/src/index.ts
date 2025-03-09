@@ -1,4 +1,5 @@
 import Koa from "koa";
+import { logger } from "./logger.ts";
 
 const app = new Koa();
 
